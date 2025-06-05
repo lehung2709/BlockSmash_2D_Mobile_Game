@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b946d3a3b8b8e440bc76240ee018149, type: 3}
+  m_Name: SoundLibrary
+  m_EditorClassIdentifier: 
+  sounds:
+  - soundName: GameSceneMusic
+    clip: {fileID: 8300000, guid: e7735ddfd64f1e34ebb50318f190c6c7, type: 3}
+    mixerGroup: {fileID: -4626420979983921175, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 1
+  - soundName: Btn
+    clip: {fileID: 8300000, guid: 140c5f9ed0d8776449bcd752ecfd7d87, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0
+  - soundName: HomeSceneMusic
+    clip: {fileID: 8300000, guid: 930172fcf945e784ebe4bdfb76a9793c, type: 3}
+    mixerGroup: {fileID: -4626420979983921175, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 1
+  - soundName: Place
+    clip: {fileID: 8300000, guid: 3daf99ef32141164e920432eaab50abe, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0
+  - soundName: Select
+    clip: {fileID: 8300000, guid: 1a9eb570835da6f4c82306420e3756a9, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0
+  - soundName: FullLine
+    clip: {fileID: 8300000, guid: 8ed9ce5eab94f27458814b470d005341, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0
+  - soundName: Losing
+    clip: {fileID: 8300000, guid: f0980dd614a6c2043a7372a0ff4dfc0e, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0
+  - soundName: Pop
+    clip: {fileID: 8300000, guid: a6c43f3d58b593e44bf60fd399f73e2a, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 1
+  - soundName: Good
+    clip: {fileID: 8300000, guid: dd8b72ff2eda77d4e9dca096cf5159c4, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0
+  - soundName: Nice
+    clip: {fileID: 8300000, guid: a650bdd62d9b2fa44a3dd5ad9e07bac3, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0
+  - soundName: Amazing
+    clip: {fileID: 8300000, guid: e3101906bfc48354987f5be0dc793dc6, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0
+  - soundName: Perfect
+    clip: {fileID: 8300000, guid: 3e0e6e46e64419c4493f478f2c435b15, type: 3}
+    mixerGroup: {fileID: 3591534273080229514, guid: faa967a89c2758e4cbb04fbce9a10a5e, type: 2}
+    loop: 0

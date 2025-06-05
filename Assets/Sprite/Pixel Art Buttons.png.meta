@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: b4c96837ca19e1f42a11e97c3e088cab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5117817172127312737
+    second: Pixel Art Buttons_0
+  - first:
+      213: 5075753372216205059
+    second: Pixel Art Buttons_1
+  - first:
+      213: -7829453659865502406
+    second: Pixel Art Buttons_2
+  - first:
+      213: 7125237772708409021
+    second: Pixel Art Buttons_3
+  - first:
+      213: -2254697349750993499
+    second: Pixel Art Buttons_4
+  - first:
+      213: -8847996864178777231
+    second: Pixel Art Buttons_5
+  - first:
+      213: 1821998046814248307
+    second: Pixel Art Buttons_6
+  - first:
+      213: 6663187934652328789
+    second: Pixel Art Buttons_7
+  - first:
+      213: -1759326414057455670
+    second: Pixel Art Buttons_8
+  - first:
+      213: -4701150332896491379
+    second: Pixel Art Buttons_9
+  - first:
+      213: 4170184090034607823
+    second: Pixel Art Buttons_10
+  - first:
+      213: 8521214897380763135
+    second: Pixel Art Buttons_11
+  - first:
+      213: -8575582746786392601
+    second: Pixel Art Buttons_12
+  - first:
+      213: 7450698311506653410
+    second: Pixel Art Buttons_13
+  - first:
+      213: -8066556549130196183
+    second: Pixel Art Buttons_14
+  - first:
+      213: -4984787954331786811
+    second: Pixel Art Buttons_15
+  - first:
+      213: -8771734879181068313
+    second: Pixel Art Buttons_16
+  - first:
+      213: -1634249976306368139
+    second: Pixel Art Buttons_17
+  - first:
+      213: -4265584959130301871
+    second: Pixel Art Buttons_18
+  - first:
+      213: -7461952698033189948
+    second: Pixel Art Buttons_19
+  - first:
+      213: 6751728083091095645
+    second: Pixel Art Buttons_20
+  - first:
+      213: -4979489331967949271
+    second: Pixel Art Buttons_21
+  - first:
+      213: -8382532257679178117
+    second: Pixel Art Buttons_22
+  - first:
+      213: 4164598956774075870
+    second: Pixel Art Buttons_23
+  - first:
+      213: -3940418479579535574
+    second: Pixel Art Buttons_24
+  - first:
+      213: -7462526576528146946
+    second: Pixel Art Buttons_25
+  - first:
+      213: -2476786095885151109
+    second: Pixel Art Buttons_26
+  - first:
+      213: 6919810512312852682
+    second: Pixel Art Buttons_27
+  - first:
+      213: -3205942828503157308
+    second: Pixel Art Buttons_28
+  - first:
+      213: 4534759210816248149
+    second: Pixel Art Buttons_29
+  - first:
+      213: 6892093987804086794
+    second: Pixel Art Buttons_30
+  - first:
+      213: -2408216923818791911
+    second: Pixel Art Buttons_31
+  - first:
+      213: 790956518598418077
+    second: Pixel Art Buttons_32
+  - first:
+      213: -2876091769989916774
+    second: Pixel Art Buttons_33
+  - first:
+      213: -9116747836970840358
+    second: Pixel Art Buttons_34
+  - first:
+      213: -372633630251258698
+    second: Pixel Art Buttons_35
+  - first:
+      213: 2561397050132968273
+    second: Pixel Art Buttons_36
+  - first:
+      213: -4975704475764043068
+    second: Pixel Art Buttons_37
+  - first:
+      213: -5643054712996637732
+    second: Pixel Art Buttons_38
+  - first:
+      213: -7899345574418731125
+    second: Pixel Art Buttons_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 267
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84175f3fb9b347648a71e8a421a173c9
+      internalID: 511519521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a47403a22120bc45a8dd7186b96420f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel Art Buttons_0: -860256112
+      Pixel Art Buttons_1: 511519521
+      Pixel Art Buttons_10: 1940184234
+      Pixel Art Buttons_11: -1154356249
+      Pixel Art Buttons_12: 1017095021
+      Pixel Art Buttons_13: 1796984044
+      Pixel Art Buttons_14: 723218429
+      Pixel Art Buttons_15: -1146335864
+      Pixel Art Buttons_16: 1617727339
+      Pixel Art Buttons_17: 1483964526
+      Pixel Art Buttons_18: 2035050777
+      Pixel Art Buttons_19: 925994613
+      Pixel Art Buttons_2: 658946161
+      Pixel Art Buttons_20: 963303441
+      Pixel Art Buttons_21: -686056204
+      Pixel Art Buttons_22: 1619229691
+      Pixel Art Buttons_23: -214675283
+      Pixel Art Buttons_24: -514337791
+      Pixel Art Buttons_25: -1285543848
+      Pixel Art Buttons_26: -1015343061
+      Pixel Art Buttons_27: -148511435
+      Pixel Art Buttons_28: 2121420925
+      Pixel Art Buttons_29: -1165296805
+      Pixel Art Buttons_3: -1371222670
+      Pixel Art Buttons_30: -1525699740
+      Pixel Art Buttons_31: 1988794185
+      Pixel Art Buttons_32: 1859960340
+      Pixel Art Buttons_33: -407942072
+      Pixel Art Buttons_34: -700582111
+      Pixel Art Buttons_35: 1333529910
+      Pixel Art Buttons_36: 650623444
+      Pixel Art Buttons_37: 65925629
+      Pixel Art Buttons_38: -1799746826
+      Pixel Art Buttons_39: 1863366479
+      Pixel Art Buttons_4: -138530538
+      Pixel Art Buttons_5: 2117537219
+      Pixel Art Buttons_6: -107257657
+      Pixel Art Buttons_7: 1686076911
+      Pixel Art Buttons_8: 1630550691
+      Pixel Art Buttons_9: 58327879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
